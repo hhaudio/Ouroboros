@@ -1,4 +1,4 @@
-17558877150470974
+17562052674752974
 Aesthetics
 BREADBOARD_SPACING
 BREADBOARD SPACING
@@ -48524,6 +48524,13 @@ CenterNeg_PowerSymbol
 0
 0
 HammerheadAudio
+DO-35-P5mm
+Diode, DO-34_SOD68 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
+Diode DO-34_SOD68 series Axial Horizontal pin pitch 7.62mm  length 3.04mm diameter 1.6mm
+0
+2
+2
+HammerheadAudio
 EuroJack_MonoSW_THT
 
 
@@ -48581,6 +48588,13 @@ HH_LOGO_32x16
 0
 HammerheadAudio
 LED_Centered
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+HammerheadAudio
+LED_Centered_NoRef
 LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
 LED diameter 5.0mm 2 pins
 0
