@@ -4642,4 +4642,48 @@ Wire Wire Line
 	14850 6650 14850 6750
 Wire Wire Line
 	14850 6300 16150 6300
+$Comp
+L Device:LED D87
+U 1 1 5F384FB5
+P 3250 300
+F 0 "D87" H 3243 45  50  0000 C CNN
+F 1 "LED" H 3243 136 50  0000 C CNN
+F 2 "HammerheadAudio:LED_Centered_NoRef" H 3250 300 50  0001 C CNN
+F 3 "~" H 3250 300 50  0001 C CNN
+	1    3250 300 
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR0119
+U 1 1 5F384FBF
+P 3450 350
+F 0 "#PWR0119" H 3450 100 50  0001 C CNN
+F 1 "GND" H 3455 177 50  0000 C CNN
+F 2 "" H 3450 350 50  0001 C CNN
+F 3 "" H 3450 350 50  0001 C CNN
+	1    3450 350 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3050 300  3100 300 
+Wire Wire Line
+	3450 350  3450 300 
+Wire Wire Line
+	3450 300  3400 300 
+$Comp
+L Device:R R42
+U 1 1 5F384FCC
+P 2900 300
+F 0 "R42" V 2693 300 50  0000 C CNN
+F 1 "220" V 2784 300 50  0000 C CNN
+F 2 "HammerheadAudio:R_THT_P7.62" V 2830 300 50  0001 C CNN
+F 3 "~" H 2900 300 50  0001 C CNN
+	1    2900 300 
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2650 550  2650 300 
+Wire Wire Line
+	2650 300  2750 300 
+Connection ~ 2650 550 
 $EndSCHEMATC
