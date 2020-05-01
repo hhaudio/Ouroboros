@@ -2230,12 +2230,12 @@ Wire Wire Line
 $Comp
 L Amplifier_Operational:LM324 U10
 U 1 1 5E7AFCA6
-P 2250 1400
-F 0 "U10" H 2250 1767 50  0000 C CNN
-F 1 "LM324" H 2250 1676 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 2200 1500 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 2300 1600 50  0001 C CNN
-	1    2250 1400
+P 1550 2400
+F 0 "U10" H 1550 2767 50  0000 C CNN
+F 1 "LM324" H 1550 2676 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 2500 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 2600 50  0001 C CNN
+	1    1550 2400
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -2262,17 +2262,6 @@ Text GLabel 850  1300 0    50   Input ~ 0
 TRIG_IN
 Wire Wire Line
 	2600 1750 2700 1750
-$Comp
-L Amplifier_Operational:LM324 U10
-U 2 1 5E7D3930
-P 1550 2400
-F 0 "U10" H 1550 2767 50  0000 C CNN
-F 1 "LM324" H 1550 2676 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 2500 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 2600 50  0001 C CNN
-	2    1550 2400
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	1900 2400 1850 2400
 $Comp
@@ -2301,17 +2290,6 @@ Wire Wire Line
 	1900 2400 1950 2400
 Wire Wire Line
 	1900 2750 2000 2750
-$Comp
-L Amplifier_Operational:LM324 U10
-U 3 1 60375CB0
-P 1550 3150
-F 0 "U10" H 1550 3517 50  0000 C CNN
-F 1 "LM324" H 1550 3426 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 3250 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 3350 50  0001 C CNN
-	3    1550 3150
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	1900 3150 1850 3150
 $Comp
@@ -2340,17 +2318,6 @@ Wire Wire Line
 	1900 3150 1950 3150
 Wire Wire Line
 	1900 3500 2000 3500
-$Comp
-L Amplifier_Operational:LM324 U10
-U 4 1 60375CB2
-P 1550 4050
-F 0 "U10" H 1550 4417 50  0000 C CNN
-F 1 "LM324" H 1550 4326 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 4150 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 4250 50  0001 C CNN
-	4    1550 4050
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	1900 4050 1850 4050
 $Comp
@@ -2405,17 +2372,6 @@ Wire Wire Line
 	1200 3250 1250 3250
 Wire Wire Line
 	2600 1400 2650 1400
-$Comp
-L Amplifier_Operational:LM324 U11
-U 1 1 5F98E147
-P 1550 5150
-F 0 "U11" H 1550 5517 50  0000 C CNN
-F 1 "LM324" H 1550 5426 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 5250 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 5350 50  0001 C CNN
-	1    1550 5150
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	1900 5150 1850 5150
 $Comp
@@ -2442,17 +2398,6 @@ Wire Wire Line
 	1200 5050 1250 5050
 Wire Wire Line
 	1900 5500 2000 5500
-$Comp
-L Amplifier_Operational:LM324 U11
-U 2 1 5F98E163
-P 1550 5950
-F 0 "U11" H 1550 6317 50  0000 C CNN
-F 1 "LM324" H 1550 6226 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 6050 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 6150 50  0001 C CNN
-	2    1550 5950
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	1900 5950 1850 5950
 $Comp
@@ -2481,17 +2426,6 @@ Wire Wire Line
 	1900 5950 1950 5950
 Wire Wire Line
 	1900 6300 2000 6300
-$Comp
-L Amplifier_Operational:LM324 U11
-U 3 1 5F98E180
-P 1550 6700
-F 0 "U11" H 1550 7067 50  0000 C CNN
-F 1 "LM324" H 1550 6976 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 6800 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 6900 50  0001 C CNN
-	3    1550 6700
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	1900 6700 1850 6700
 $Comp
@@ -2520,17 +2454,6 @@ Wire Wire Line
 	1900 6700 1950 6700
 Wire Wire Line
 	1900 7050 2000 7050
-$Comp
-L Amplifier_Operational:LM324 U11
-U 4 1 5F98E19D
-P 1550 7600
-F 0 "U11" H 1550 7967 50  0000 C CNN
-F 1 "LM324" H 1550 7876 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 7700 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 7800 50  0001 C CNN
-	4    1550 7600
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	1900 7600 1850 7600
 $Comp
@@ -2588,12 +2511,12 @@ Wire Wire Line
 $Comp
 L Amplifier_Operational:LM324 U12
 U 1 1 5F9C5CD8
-P 1550 8550
-F 0 "U12" H 1550 8917 50  0000 C CNN
-F 1 "LM324" H 1550 8826 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 8650 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 8750 50  0001 C CNN
-	1    1550 8550
+P 1550 7600
+F 0 "U12" H 1550 7967 50  0000 C CNN
+F 1 "LM324" H 1550 7876 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 7700 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 7800 50  0001 C CNN
+	1    1550 7600
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -2625,12 +2548,12 @@ Wire Wire Line
 $Comp
 L Amplifier_Operational:LM324 U12
 U 2 1 5F9C5CF4
-P 1550 9350
-F 0 "U12" H 1550 9717 50  0000 C CNN
-F 1 "LM324" H 1550 9626 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 9450 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 9550 50  0001 C CNN
-	2    1550 9350
+P 1550 8550
+F 0 "U12" H 1550 8917 50  0000 C CNN
+F 1 "LM324" H 1550 8826 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 8650 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 8750 50  0001 C CNN
+	2    1550 8550
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -2662,12 +2585,12 @@ Wire Wire Line
 $Comp
 L Amplifier_Operational:LM324 U12
 U 3 1 5F9C5D11
-P 2650 10850
-F 0 "U12" H 2650 11217 50  0000 C CNN
-F 1 "LM324" H 2650 11126 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 2600 10950 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 2700 11050 50  0001 C CNN
-	3    2650 10850
+P 2250 1400
+F 0 "U12" H 2250 1767 50  0000 C CNN
+F 1 "LM324" H 2250 1676 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 2200 1500 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 2300 1600 50  0001 C CNN
+	3    2250 1400
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -2699,12 +2622,12 @@ Wire Wire Line
 $Comp
 L Amplifier_Operational:LM324 U12
 U 4 1 5F9C5D2E
-P 1950 12750
-F 0 "U12" H 1950 13117 50  0000 C CNN
-F 1 "LM324" H 1950 13026 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1900 12850 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 2000 12950 50  0001 C CNN
-	4    1950 12750
+P 1550 9350
+F 0 "U12" H 1550 9717 50  0000 C CNN
+F 1 "LM324" H 1550 9626 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 9450 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 9550 50  0001 C CNN
+	4    1550 9350
 	1    0    0    -1  
 $EndComp
 Text GLabel 1200 9450 0    50   Input ~ 0
@@ -2734,17 +2657,6 @@ F 1 "220" V 2734 1750 50  0000 C CNN
 F 2 "HammerheadAudio:R_THT_P7.62" V 2780 1750 50  0001 C CNN
 F 3 "~" H 2850 1750 50  0001 C CNN
 	1    2850 1750
-	0    1    1    0   
-$EndComp
-$Comp
-L Device:R R2
-U 1 1 5FA97713
-P 2850 1400
-F 0 "R2" V 2643 1400 50  0000 C CNN
-F 1 "1k" V 2734 1400 50  0000 C CNN
-F 2 "HammerheadAudio:R_THT_P7.62" V 2780 1400 50  0001 C CNN
-F 3 "~" H 2850 1400 50  0001 C CNN
-	1    2850 1400
 	0    1    1    0   
 $EndComp
 $Comp
@@ -3035,7 +2947,7 @@ F 1 "220" V 2734 950 50  0000 C CNN
 F 2 "HammerheadAudio:R_THT_P7.62" V 2780 950 50  0001 C CNN
 F 3 "~" H 2850 950 50  0001 C CNN
 	1    2850 950 
-	0    1    1    0   
+	0    -1   1    0   
 $EndComp
 Wire Wire Line
 	2650 1400 2650 950 
@@ -3201,7 +3113,7 @@ F 1 "220" H 16420 5055 50  0000 L CNN
 F 2 "HammerheadAudio:R_THT_P7.62" V 16280 5100 50  0001 C CNN
 F 3 "~" H 16350 5100 50  0001 C CNN
 	1    16350 5100
-	-1   0    0    1   
+	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	16350 5600 16350 5550
@@ -4250,7 +4162,7 @@ F 1 "0.1uf" H 5365 7905 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 5288 7800 50  0001 C CNN
 F 3 "~" H 5250 7950 50  0001 C CNN
 	1    5250 7950
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 Wire Wire Line
 	5250 8250 5250 8200
@@ -4279,7 +4191,7 @@ F 1 "1k" H 16770 5305 50  0000 L CNN
 F 2 "HammerheadAudio:R_THT_P7.62" V 16630 5350 50  0001 C CNN
 F 3 "~" H 16700 5350 50  0001 C CNN
 	1    16700 5350
-	0    -1   -1   0   
+	0    1    -1   0   
 $EndComp
 Wire Wire Line
 	16950 5350 16950 5300
@@ -4528,13 +4440,13 @@ $EndComp
 $Comp
 L Device:R R41
 U 1 1 6255B213
-P 1800 10950
-F 0 "R41" V 1593 10950 50  0000 C CNN
-F 1 "10k" V 1684 10950 50  0000 C CNN
-F 2 "HammerheadAudio:R_THT_P7.62" V 1730 10950 50  0001 C CNN
-F 3 "~" H 1800 10950 50  0001 C CNN
-	1    1800 10950
-	-1   0    0    1   
+P 2050 10950
+F 0 "R41" V 1843 10950 50  0000 C CNN
+F 1 "10k" V 1934 10950 50  0000 C CNN
+F 2 "HammerheadAudio:R_THT_P7.62" V 1980 10950 50  0001 C CNN
+F 3 "~" H 2050 10950 50  0001 C CNN
+	1    2050 10950
+	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR0118
@@ -4555,18 +4467,7 @@ Wire Wire Line
 	1400 10800 1400 10750
 Connection ~ 1400 10750
 Wire Wire Line
-	1400 10750 1800 10750
-Wire Wire Line
-	1800 10800 1800 10750
-Connection ~ 1800 10750
-Wire Wire Line
-	1800 10750 2350 10750
-Wire Wire Line
 	1400 11200 1400 11150
-Wire Wire Line
-	1400 11150 1800 11150
-Wire Wire Line
-	1800 11150 1800 11100
 Connection ~ 1400 11150
 Wire Wire Line
 	1400 11150 1400 11100
@@ -4648,7 +4549,7 @@ F 1 "220" V 2784 300 50  0000 C CNN
 F 2 "HammerheadAudio:R_THT_P7.62" V 2830 300 50  0001 C CNN
 F 3 "~" H 2900 300 50  0001 C CNN
 	1    2900 300 
-	0    1    1    0   
+	0    -1   1    0   
 $EndComp
 Wire Wire Line
 	2650 550  2650 300 
@@ -4698,11 +4599,110 @@ F 1 "10k" V 1384 1300 50  0000 C CNN
 F 2 "HammerheadAudio:R_THT_P7.62" V 1430 1300 50  0001 C CNN
 F 3 "~" H 1500 1300 50  0001 C CNN
 	1    1500 1300
-	0    1    1    0   
+	0    -1   1    0   
 $EndComp
 Wire Wire Line
 	1300 1300 1350 1300
 Connection ~ 1300 1300
 Wire Wire Line
 	1650 1300 1950 1300
+$Comp
+L Amplifier_Operational:LM324 U10
+U 2 1 5E7D3930
+P 1550 3150
+F 0 "U10" H 1550 3517 50  0000 C CNN
+F 1 "LM324" H 1550 3426 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 3250 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 3350 50  0001 C CNN
+	2    1550 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Amplifier_Operational:LM324 U10
+U 3 1 60375CB0
+P 1550 4050
+F 0 "U10" H 1550 4417 50  0000 C CNN
+F 1 "LM324" H 1550 4326 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 4150 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 4250 50  0001 C CNN
+	3    1550 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Amplifier_Operational:LM324 U10
+U 4 1 60375CB2
+P 1550 5150
+F 0 "U10" H 1550 5517 50  0000 C CNN
+F 1 "LM324" H 1550 5426 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 5250 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 5350 50  0001 C CNN
+	4    1550 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Amplifier_Operational:LM324 U11
+U 1 1 5F98E147
+P 1550 5950
+F 0 "U11" H 1550 6317 50  0000 C CNN
+F 1 "LM324" H 1550 6226 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 6050 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 6150 50  0001 C CNN
+	1    1550 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Amplifier_Operational:LM324 U11
+U 2 1 5F98E163
+P 1550 6700
+F 0 "U11" H 1550 7067 50  0000 C CNN
+F 1 "LM324" H 1550 6976 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 6800 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 6900 50  0001 C CNN
+	2    1550 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Amplifier_Operational:LM324 U11
+U 3 1 5F98E180
+P 1950 12750
+F 0 "U11" H 1950 13117 50  0000 C CNN
+F 1 "LM324" H 1950 13026 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1900 12850 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 2000 12950 50  0001 C CNN
+	3    1950 12750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Amplifier_Operational:LM324 U11
+U 4 1 5F98E19D
+P 2650 10850
+F 0 "U11" H 2650 11217 50  0000 C CNN
+F 1 "LM324" H 2650 11126 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 2600 10950 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 2700 11050 50  0001 C CNN
+	4    2650 10850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1400 10750 2050 10750
+Wire Wire Line
+	2050 10800 2050 10750
+Connection ~ 2050 10750
+Wire Wire Line
+	2050 10750 2350 10750
+Wire Wire Line
+	2050 11150 2050 11100
+Wire Wire Line
+	1400 11150 2050 11150
+$Comp
+L Device:R R2
+U 1 1 5FA97713
+P 2850 1400
+F 0 "R2" V 2643 1400 50  0000 C CNN
+F 1 "1k" V 2734 1400 50  0000 C CNN
+F 2 "HammerheadAudio:R_THT_P7.62" V 2780 1400 50  0001 C CNN
+F 3 "~" H 2850 1400 50  0001 C CNN
+	1    2850 1400
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC
