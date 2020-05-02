@@ -4620,56 +4620,56 @@ $EndComp
 $Comp
 L Amplifier_Operational:LM324 U10
 U 3 1 60375CB0
-P 1550 4050
-F 0 "U10" H 1550 4417 50  0000 C CNN
-F 1 "LM324" H 1550 4326 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 4150 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 4250 50  0001 C CNN
-	3    1550 4050
+P 1950 12750
+F 0 "U10" H 1950 13117 50  0000 C CNN
+F 1 "LM324" H 1950 13026 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1900 12850 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 2000 12950 50  0001 C CNN
+	3    1950 12750
 	1    0    0    -1  
 $EndComp
 $Comp
 L Amplifier_Operational:LM324 U10
 U 4 1 60375CB2
-P 1550 5150
-F 0 "U10" H 1550 5517 50  0000 C CNN
-F 1 "LM324" H 1550 5426 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 5250 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 5350 50  0001 C CNN
-	4    1550 5150
+P 1550 4050
+F 0 "U10" H 1550 4417 50  0000 C CNN
+F 1 "LM324" H 1550 4326 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 4150 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 4250 50  0001 C CNN
+	4    1550 4050
 	1    0    0    -1  
 $EndComp
 $Comp
 L Amplifier_Operational:LM324 U11
 U 1 1 5F98E147
-P 1550 5950
-F 0 "U11" H 1550 6317 50  0000 C CNN
-F 1 "LM324" H 1550 6226 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 6050 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 6150 50  0001 C CNN
-	1    1550 5950
+P 1550 5150
+F 0 "U11" H 1550 5517 50  0000 C CNN
+F 1 "LM324" H 1550 5426 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 5250 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 5350 50  0001 C CNN
+	1    1550 5150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Amplifier_Operational:LM324 U11
 U 2 1 5F98E163
-P 1550 6700
-F 0 "U11" H 1550 7067 50  0000 C CNN
-F 1 "LM324" H 1550 6976 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 6800 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 6900 50  0001 C CNN
-	2    1550 6700
+P 1550 5950
+F 0 "U11" H 1550 6317 50  0000 C CNN
+F 1 "LM324" H 1550 6226 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 6050 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 6150 50  0001 C CNN
+	2    1550 5950
 	1    0    0    -1  
 $EndComp
 $Comp
 L Amplifier_Operational:LM324 U11
 U 3 1 5F98E180
-P 1950 12750
-F 0 "U11" H 1950 13117 50  0000 C CNN
-F 1 "LM324" H 1950 13026 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1900 12850 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 2000 12950 50  0001 C CNN
-	3    1950 12750
+P 1550 6700
+F 0 "U11" H 1550 7067 50  0000 C CNN
+F 1 "LM324" H 1550 6976 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 6800 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 6900 50  0001 C CNN
+	3    1550 6700
 	1    0    0    -1  
 $EndComp
 $Comp
