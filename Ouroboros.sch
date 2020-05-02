@@ -2511,12 +2511,12 @@ Wire Wire Line
 $Comp
 L Amplifier_Operational:LM324 U12
 U 1 1 5F9C5CD8
-P 1550 8550
-F 0 "U12" H 1550 8917 50  0000 C CNN
-F 1 "LM324" H 1550 8826 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 8650 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 8750 50  0001 C CNN
-	1    1550 8550
+P 1550 7600
+F 0 "U12" H 1550 7967 50  0000 C CNN
+F 1 "LM324" H 1550 7876 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 7700 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 7800 50  0001 C CNN
+	1    1550 7600
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -2548,12 +2548,12 @@ Wire Wire Line
 $Comp
 L Amplifier_Operational:LM324 U12
 U 2 1 5F9C5CF4
-P 1550 7600
-F 0 "U12" H 1550 7967 50  0000 C CNN
-F 1 "LM324" H 1550 7876 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 7700 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 7800 50  0001 C CNN
-	2    1550 7600
+P 1550 8550
+F 0 "U12" H 1550 8917 50  0000 C CNN
+F 1 "LM324" H 1550 8826 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 8650 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 8750 50  0001 C CNN
+	2    1550 8550
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -4303,23 +4303,23 @@ Text GLabel 8050 8300 0    50   Input ~ 0
 ALL
 Wire Wire Line
 	8050 8300 8150 8300
-Text GLabel 8050 8550 0    50   Input ~ 0
+Text GLabel 9250 8800 2    50   Input ~ 0
 B10
 Wire Wire Line
 	8050 8550 8150 8550
-Text GLabel 8050 8800 0    50   Input ~ 0
+Text GLabel 9250 9050 2    50   Input ~ 0
 B9
 Wire Wire Line
 	8050 8800 8150 8800
-Text GLabel 8050 9050 0    50   Input ~ 0
+Text GLabel 9250 9300 2    50   Input ~ 0
 B8
 Wire Wire Line
 	8050 9050 8150 9050
-Text GLabel 8050 9300 0    50   Input ~ 0
+Text GLabel 9250 9550 2    50   Input ~ 0
 B7
 Wire Wire Line
 	8050 9300 8150 9300
-Text GLabel 8050 9550 0    50   Input ~ 0
+Text GLabel 8050 9300 0    50   Input ~ 0
 B6
 Wire Wire Line
 	8050 9550 8150 9550
@@ -4371,19 +4371,19 @@ F 3 "" H 9250 9800 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	9150 9800 9250 9800
-Text GLabel 9250 8800 2    50   Input ~ 0
+Text GLabel 8050 9050 0    50   Input ~ 0
 B5
 Wire Wire Line
 	9250 8800 9150 8800
-Text GLabel 9250 9050 2    50   Input ~ 0
+Text GLabel 8050 8800 0    50   Input ~ 0
 B4
 Wire Wire Line
 	9250 9050 9150 9050
-Text GLabel 9250 9300 2    50   Input ~ 0
+Text GLabel 8050 8550 0    50   Input ~ 0
 B3
 Wire Wire Line
 	9250 9300 9150 9300
-Text GLabel 9250 9550 2    50   Input ~ 0
+Text GLabel 8050 9550 0    50   Input ~ 0
 B2
 Wire Wire Line
 	9250 9550 9150 9550
