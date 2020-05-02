@@ -2230,12 +2230,12 @@ Wire Wire Line
 $Comp
 L Amplifier_Operational:LM324 U10
 U 1 1 5E7AFCA6
-P 1550 2400
-F 0 "U10" H 1550 2767 50  0000 C CNN
-F 1 "LM324" H 1550 2676 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 2500 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 2600 50  0001 C CNN
-	1    1550 2400
+P 1550 3150
+F 0 "U10" H 1550 3517 50  0000 C CNN
+F 1 "LM324" H 1550 3426 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 3250 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 3350 50  0001 C CNN
+	1    1550 3150
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -2511,12 +2511,12 @@ Wire Wire Line
 $Comp
 L Amplifier_Operational:LM324 U12
 U 1 1 5F9C5CD8
-P 1550 7600
-F 0 "U12" H 1550 7967 50  0000 C CNN
-F 1 "LM324" H 1550 7876 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 7700 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 7800 50  0001 C CNN
-	1    1550 7600
+P 1550 8550
+F 0 "U12" H 1550 8917 50  0000 C CNN
+F 1 "LM324" H 1550 8826 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 8650 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 8750 50  0001 C CNN
+	1    1550 8550
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -2548,12 +2548,12 @@ Wire Wire Line
 $Comp
 L Amplifier_Operational:LM324 U12
 U 2 1 5F9C5CF4
-P 1550 8550
-F 0 "U12" H 1550 8917 50  0000 C CNN
-F 1 "LM324" H 1550 8826 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 8650 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 8750 50  0001 C CNN
-	2    1550 8550
+P 1550 7600
+F 0 "U12" H 1550 7967 50  0000 C CNN
+F 1 "LM324" H 1550 7876 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 7700 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 7800 50  0001 C CNN
+	2    1550 7600
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -4609,12 +4609,12 @@ Wire Wire Line
 $Comp
 L Amplifier_Operational:LM324 U10
 U 2 1 5E7D3930
-P 1550 3150
-F 0 "U10" H 1550 3517 50  0000 C CNN
-F 1 "LM324" H 1550 3426 50  0000 C CNN
-F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 3250 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 3350 50  0001 C CNN
-	2    1550 3150
+P 1550 2400
+F 0 "U10" H 1550 2767 50  0000 C CNN
+F 1 "LM324" H 1550 2676 50  0000 C CNN
+F 2 "Package_DIP:DIP-14_W7.62mm_Socket" H 1500 2500 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm2902-n.pdf" H 1600 2600 50  0001 C CNN
+	2    1550 2400
 	1    0    0    -1  
 $EndComp
 $Comp
