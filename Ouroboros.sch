@@ -4319,7 +4319,7 @@ Text GLabel 9250 9550 2    50   Input ~ 0
 B7
 Wire Wire Line
 	8050 9300 8150 9300
-Text GLabel 8050 9300 0    50   Input ~ 0
+Text GLabel 8050 9550 0    50   Input ~ 0
 B6
 Wire Wire Line
 	8050 9550 8150 9550
@@ -4371,19 +4371,19 @@ F 3 "" H 9250 9800 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	9150 9800 9250 9800
-Text GLabel 8050 9050 0    50   Input ~ 0
+Text GLabel 8050 9300 0    50   Input ~ 0
 B5
 Wire Wire Line
 	9250 8800 9150 8800
-Text GLabel 8050 8800 0    50   Input ~ 0
+Text GLabel 8050 9050 0    50   Input ~ 0
 B4
 Wire Wire Line
 	9250 9050 9150 9050
-Text GLabel 8050 8550 0    50   Input ~ 0
+Text GLabel 8050 8800 0    50   Input ~ 0
 B3
 Wire Wire Line
 	9250 9300 9150 9300
-Text GLabel 8050 9550 0    50   Input ~ 0
+Text GLabel 8050 8550 0    50   Input ~ 0
 B2
 Wire Wire Line
 	9250 9550 9150 9550
