@@ -1,4 +1,4 @@
-17608116107720974
+17616058885362974
 Aesthetics
 BREADBOARD_SPACING
 BREADBOARD SPACING
@@ -231,16 +231,16 @@ SPARKFUN FLAME LOGO - 0.4" HEIGHT - SILKSCREEN
 0
 0
 Aesthetics
-SFE_LOGO_FLAME_.05
-SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
-SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
+SFE_LOGO_FLAME_.5
+SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
+SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
 0
 0
 0
 Aesthetics
-SFE_LOGO_FLAME_.5
-SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
-SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
+SFE_LOGO_FLAME_.05
+SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
+SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
 0
 0
 0
@@ -72625,6 +72625,27 @@ globe_asia_smaller
 0
 0
 Skelly
+globus1_7.5x15.3mm
+
+
+0
+0
+0
+Skelly
+globus_bigfile_7.5x15.3mm
+
+
+0
+0
+0
+Skelly
+globus_overlay_7.5x15.3mm
+
+
+0
+0
+0
+Skelly
 hand1_small
 
 
@@ -72661,6 +72682,13 @@ hand_3
 0
 Skelly
 hand_open
+
+
+0
+0
+0
+Skelly
+hand_open_7.63x8.3mm
 
 
 0
@@ -77993,6 +78021,13 @@ test point THT pad
 0
 1
 1
+Transformer_SMD
+globus1_7.5x15.3mm
+
+
+0
+0
+0
 Transformer_SMD
 Pulse_P0926NL
 SMT Gate Drive Transformer, 1:1:1, 8.0x6.3x5.3mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)
